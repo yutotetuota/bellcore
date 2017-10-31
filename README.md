@@ -36,13 +36,13 @@ transaction.sign(privateKey);
 ## Applications
 
 - [Node](https://github.com/Cubey2019/vertcore-node) - A full node with extended capabilities using Vertcoin Core
-- [Insight API](https://github.com/Cubey2019/insight-api) - A blockchain explorer HTTP API
-- [Insight UI](https://github.com/Cubey2019/insight) - A blockchain explorer web user interface
-- [Wallet Service](https://github.com/Cubey2019/vertcore-wallet-service) - A multisig HD service for wallets
-- [Wallet Client](https://github.com/Cubey2019/vertcore-wallet-client) - A client for the wallet service
-- [CLI Wallet](https://github.com/Cubey2019/vertcore-wallet) - A command-line based wallet client
-- [Angular Wallet Client](https://github.com/Cubey2019/angular-vertcore-wallet-client) - An Angular based wallet client
-- [Copay](https://github.com/Cubey2019/copay) - An easy-to-use, multiplatform, multisignature, secure vertcoin wallet
+- [Insight API](https://github.com/Cubey2019/insight-vtc-api) - A blockchain explorer HTTP API
+- [Insight UI](https://github.com/Cubey2019/insight-vtc-ui) - A blockchain explorer web user interface
+~~- [Wallet Service](https://github.com/Cubey2019/vertcore-wallet-service) - A multisig HD service for wallets~~
+~~- [Wallet Client](https://github.com/Cubey2019/vertcore-wallet-client) - A client for the wallet service~~
+~~- [CLI Wallet](https://github.com/Cubey2019/vertcore-wallet) - A command-line based wallet client~~
+~~- [Angular Wallet Client](https://github.com/Cubey2019/angular-vertcore-wallet-client) - An Angular based wallet client~~
+~~- [Copay](https://github.com/Cubey2019/copay) - An easy-to-use, multiplatform, multisignature, secure vertcoin wallet~~
 
 ## Libraries
 
