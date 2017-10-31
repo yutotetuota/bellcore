@@ -20,3 +20,4 @@ build
 tests.js
 
 scripts/servers.*
+.vs
