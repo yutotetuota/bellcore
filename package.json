@@ -1,7 +1,10 @@
 {
   "name": "vertcore",
-  "version": "5.0.0-beta.28",
+  "version": "5.0.0-beta.32",
   "description": "A platform to build vertcoin and blockchain-based applications.",
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -34,9 +37,9 @@
   },
   "dependencies": {
     "vertcore-lib": "5.0.0-beta.1",
-    "vertcore-node": "5.0.0-beta.28",
-    "insight-vtc-api": "5.0.0-beta.28",
-    "insight-vtc-ui": "5.0.0-beta.28"
+    "vertcore-node": "5.0.0-beta.32",
+    "insight-vtc-api": "5.0.0-beta.32",
+    "insight-vtc-ui": "5.0.0-beta.32"
   },
   "license": "MIT",
   "devDependencies": {
