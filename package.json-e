@@ -1,7 +1,7 @@
 {
-  "name": "vertcore",
-  "version": "5.0.0-beta.39",
-  "description": "A platform to build vertcoin and blockchain-based applications.",
+  "name": "bitcore",
+  "version": "5.0.0-beta.37",
+  "description": "A platform to build bitcoin and blockchain-based applications.",
   "engines": {
     "node": ">=8.0.0"
   },
@@ -12,11 +12,11 @@
     "build-deb": "./scripts/build-deb"
   },
   "bin": {
-    "vertcore": "./bin/vertcore",
-    "vertcored": "./bin/vertcored"
+    "bitcore": "./bin/bitcore",
+    "bitcored": "./bin/bitcored"
   },
   "keywords": [
-    "vertcoin",
+    "bitcoin",
     "transaction",
     "address",
     "p2p",
@@ -33,13 +33,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Cubey2019/vertcore.git"
+    "url": "https://github.com/bitpay/bitcore.git"
   },
   "dependencies": {
-    "vertcore-lib": "5.0.0-beta.1",
-    "vertcore-node": "5.0.0-beta.39",
-    "insight-vtc-api": "5.0.0-beta.39",
-    "insight-vtc-ui": "5.0.0-beta.39"
+    "bitcore-lib": "5.0.0-beta.1",
+    "bitcore-node": "5.0.0-beta.37",
+    "insight-api": "5.0.0-beta.37",
+    "insight-ui": "bitpay/insight#v5.0.0-beta.36"
   },
   "license": "MIT",
   "devDependencies": {
