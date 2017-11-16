@@ -1,6 +1,6 @@
 {
   "name": "vertcore",
-  "version": "5.0.0-beta.39",
+  "version": "5.0.0-beta.43",
   "description": "A platform to build vertcoin and blockchain-based applications.",
   "engines": {
     "node": ">=8.0.0"
@@ -37,9 +37,9 @@
   },
   "dependencies": {
     "vertcore-lib": "5.0.0-beta.1",
-    "vertcore-node": "5.0.0-beta.39",
-    "insight-vtc-api": "5.0.0-beta.39",
-    "insight-vtc-ui": "5.0.0-beta.39"
+    "vertcore-node": "5.0.0-beta.43",
+    "insight-vtc-api": "5.0.0-beta.43",
+    "insight-vtc-ui": "5.0.0-beta.43"
   },
   "license": "MIT",
   "devDependencies": {
