@@ -36,9 +36,9 @@
     "url": "https://github.com/Cubey2019/vertcore.git"
   },
   "dependencies": {
-    "vertcore-lib": "git://github.com/Cubey2019/vertcore-lib.git#vcoin",
-    "vertcore-node": "git://github.com/Cubey2019/vertcore-node.git#vcoin",
-    "insight-vtc-api": "git://github.com/Cubey2019/insight-vtc-api.git#vcoin",
+    "vertcore-lib": "git://github.com/Cubey2019/vertcore-lib.git",
+    "vertcore-node": "git://github.com/Cubey2019/vertcore-node.git",
+    "insight-vtc-api": "git://github.com/Cubey2019/insight-vtc-api.git",
     "insight-vtc-ui": "git://github.com/Cubey2019/insight-vtc-ui.git"
   },
   "license": "MIT",
