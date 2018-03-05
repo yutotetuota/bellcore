@@ -246,7 +246,7 @@ git checkout -b remove/some-file
 
 We expect pull requests to be rebased to the master branch before merging:
 ```sh
-git remote add vertcoin git@github.com:Cubey2019/vertcore.git
+git remote add vertcoin git@github.com:vertcoin-project/vertcore.git
 git pull --rebase vertcoin master
 ```
 
@@ -258,11 +258,11 @@ git push origin your_branch_name
 git push origin feature/some-new-stuff
 git push origin fix/some-bug
 ```
-Finally go to [github.com/Cubey2019/vertcore](https://github.com/Cubey2019/vertcore) in your web browser and issue a new pull request.
+Finally go to [github.com/vertcoin-project/vertcore](https://github.com/vertcoin-project/vertcore) in your web browser and issue a new pull request.
 
 Main contributors will review your code and possibly ask for changes before your code is pulled in to the main repository.  We'll check that all tests pass, review the coding style, and check for general code correctness. If everything is OK, we'll merge your pull request and your code will be part of vertcore.
 
 If you have any questions feel free to post them to
-[github.com/Cubey2019/vertcore/issues](https://github.com/Cubey2019/vertcore/issues).
+[github.com/vertcoin-project/vertcore/issues](https://github.com/vertcoin-project/vertcore/issues).
 
 Thanks for your time and code!
