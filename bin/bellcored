@@ -3,7 +3,7 @@
 'use strict';
 
 var path = require('path');
-var vertcored = require('vertcore-node/lib/cli/bitcored');
+var bitcored = require('bellcore-node/lib/cli/bitcored');
 var servicesPath = path.resolve(__dirname, '../');
-var additionalServices = ['insight-vtc-api', 'insight-vtc-ui'];
+var additionalServices = ['insight-api-bellcoin', 'insight-ui-bellcoin'];
 vertcored(servicesPath, additionalServices);

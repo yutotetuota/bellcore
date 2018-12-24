@@ -1,5 +1,5 @@
 'use strict';
 
-var vertcore = require('vertcore-lib');
+var bitcore = require('bellcore-lib');
 
-module.exports = vertcore;
+module.exports = bitcore;

@@ -1,7 +1,7 @@
 {
-  "name": "vertcore",
+  "name": "bellcore",
   "version": "5.0.0-beta.44",
-  "description": "A platform to build vertcoin and blockchain-based applications.",
+  "description": "A platform to build bellcoin and blockchain-based applications.",
   "engines": {
     "node": ">=8.0.0"
   },
@@ -12,11 +12,11 @@
     "build-deb": "./scripts/build-deb"
   },
   "bin": {
-    "vertcore": "./bin/vertcore",
-    "vertcored": "./bin/vertcored"
+    "bellcore": "./bin/bellcore",
+    "bellcored": "./bin/bellcored"
   },
   "keywords": [
-    "vertcoin",
+    "bellcoin",
     "transaction",
     "address",
     "p2p",
@@ -33,13 +33,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vertcoin-project/vertcore.git"
+    "url": "https://github.com/yutotetuota/bellcore.git"
   },
   "dependencies": {
-    "vertcore-lib": "git://github.com/vertcoin-project/vertcore-lib.git",
-    "vertcore-node": "git://github.com/vertcoin-project/vertcore-node.git",
-    "insight-vtc-api": "git://github.com/vertcoin-project/insight-vtc-api.git",
-    "insight-vtc-ui": "git://github.com/vertcoin-project/insight-vtc-ui.git"
+    "bitcore-lib": "git://github.com/yutotetuota/bellcore-lib.git",
+    "bitcore-node": "git://github.com/yutotetuota/bellcore-node.git",
+    "insight-api-bellcoin": "git://github.com/yutotetuota/insight-api-bellcoin.git",
+    "insight-ui-bellcoin": "git://github.com/yutotetuota/insight-ui-bellcoin.git"
   },
   "license": "MIT",
   "devDependencies": {
